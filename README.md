@@ -13,6 +13,9 @@ The original data consists of two plain-text files, each containing one review p
 
 Each file represents a sentiment label (either `positive` or `negative`) and contains raw review texts.
 
+For fulle dataset refer to the url below:
+- [Imdb Binary Classification Dataset](https://drive.google.com/drive/folders/1sc2E4K9Nzaiow8oB3h7OK88mCO-eiga5?usp=sharing)
+
 ---
 
 ## 🛠️ Motive
